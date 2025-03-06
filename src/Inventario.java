@@ -13,5 +13,9 @@ public class Inventario {
         System.out.println("Ejecutando método A"); 
     }
     
+     public void metodoB() {
+ System.out.println("Ejecutando método B");
+ }
+
+     
 }
-s
